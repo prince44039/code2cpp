@@ -1,5 +1,6 @@
 # code2cpp
 #include<stdio.h>
+#include<bits/stdc++.h>
 #include<stdlib.h>
 #include<conio.h>
 #include<string.h>
